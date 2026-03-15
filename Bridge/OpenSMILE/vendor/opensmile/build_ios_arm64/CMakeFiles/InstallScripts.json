@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/elpatron/KlunaAI/Bridge/OpenSMILE/vendor/opensmile/build_ios_arm64/cmake_install.cmake",
+		"/Users/elpatron/KlunaAI/Bridge/OpenSMILE/vendor/opensmile/build_ios_arm64/src/newmat/cmake_install.cmake",
+		"/Users/elpatron/KlunaAI/Bridge/OpenSMILE/vendor/opensmile/build_ios_arm64/progsrc/smileapi/cmake_install.cmake",
+		"/Users/elpatron/KlunaAI/Bridge/OpenSMILE/vendor/opensmile/build_ios_arm64/progsrc/smilextract/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

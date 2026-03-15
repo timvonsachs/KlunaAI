@@ -1,0 +1,11 @@
+/Users/elpatron/KlunaAI/Bridge/OpenSMILE/build/ios-arm64/install/lib/libopensmile.a
+/Users/elpatron/KlunaAI/Bridge/OpenSMILE/build/ios-arm64/install/lib/cmake/opensmile/opensmile-config.cmake
+/Users/elpatron/KlunaAI/Bridge/OpenSMILE/build/ios-arm64/install/lib/cmake/opensmile/opensmile-config-release.cmake
+/Users/elpatron/KlunaAI/Bridge/OpenSMILE/build/ios-arm64/install/lib/libSMILEapi.a
+/Users/elpatron/KlunaAI/Bridge/OpenSMILE/build/ios-arm64/install/include/smileapi/SMILEapi.h
+/Users/elpatron/KlunaAI/Bridge/OpenSMILE/build/ios-arm64/install/lib/cmake/SMILEapi/smileapi-config.cmake
+/Users/elpatron/KlunaAI/Bridge/OpenSMILE/build/ios-arm64/install/lib/cmake/SMILEapi/smileapi-config-release.cmake
+/Users/elpatron/KlunaAI/Bridge/OpenSMILE/build/ios-arm64/install/bin/SMILExtract.app/SMILExtract
+/Users/elpatron/KlunaAI/Bridge/OpenSMILE/build/ios-arm64/install/bin/SMILExtract.app/Info.plist
+/Users/elpatron/KlunaAI/Bridge/OpenSMILE/build/ios-arm64/install/lib/cmake/SMILExtract/SMILExtract-config.cmake
+/Users/elpatron/KlunaAI/Bridge/OpenSMILE/build/ios-arm64/install/lib/cmake/SMILExtract/SMILExtract-config-release.cmake
