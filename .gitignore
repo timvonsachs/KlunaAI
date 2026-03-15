@@ -1,0 +1,20 @@
+.DS_Store
+
+# Xcode / SwiftPM
+DerivedData/
+DerivedDataLocal/
+.derivedData/
+.build/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved
+
+# Build logs / local diagnostics
+*.log
+.restore-build.log
+.build-for-testing.log
+
+# Local secrets / env
+.env
+.env.*

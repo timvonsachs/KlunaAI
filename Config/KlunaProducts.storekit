@@ -1,0 +1,44 @@
+{
+  "identifier": "KlunaProducts",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_applicationInternalID": "com.kluna.ai",
+    "_developerTeamID": "KLUNAMVP"
+  },
+  "subscriptionGroups": [
+    {
+      "id": "KLUNA_PRO_GROUP",
+      "localizations": [
+        {
+          "locale": "de_DE",
+          "name": "Kluna Pro"
+        },
+        {
+          "locale": "en_US",
+          "name": "Kluna Pro"
+        }
+      ],
+      "subscriptions": [
+        {
+          "id": "com.kluna.ai.pro.monthly",
+          "type": "Auto-Renewable Subscription",
+          "displayPrice": "€20.00",
+          "familyShareable": false,
+          "subscriptionPeriod": "P1M"
+        },
+        {
+          "id": "com.kluna.ai.pro.yearly",
+          "type": "Auto-Renewable Subscription",
+          "displayPrice": "€180.00",
+          "familyShareable": false,
+          "subscriptionPeriod": "P1Y"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
